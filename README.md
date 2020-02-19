@@ -76,5 +76,5 @@ Short demo video <br/>
 
 ## Authors
 * **Martin Siesse** [Msiesse](https://github.com/msiesse)
-* **Thomas Bottini** [Tbottini](https://github.com/tbottini)
+* **Cedric Audouy** [Ceaudouy](https://github.com/ceaudouy)
 
