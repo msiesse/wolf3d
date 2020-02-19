@@ -12,7 +12,9 @@ Short description:
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 We use a special graphic library here: minilibx
+
 It's a graphic library from 42, it's very similar to SDL.
+
 We've created this project on MAC OS so we can't guaranteed his well-functionning on other kernels.
 
 ### Installing
@@ -51,8 +53,8 @@ Put the density of the map:
 ```
 
 Note that the density of the map is correlated to the number of walls:
-0 density: Only walls as boundaries
-100 density: Only walls except on start position
+- 0 density: Only walls as boundaries
+- 100 density: Only walls except on start position
 
 Then, run wolf3d with the map as an argument
 
