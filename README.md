@@ -3,7 +3,7 @@
 Wolf3d is a graphc project. The goal here is to create a simple game like Wolfenstein with the ray-casting method.
 
 Short description:
-- Map are really simple, there is blocks of walls, the ground and a skybox
+- Maps are really simple, there are blocks of walls, the floor and two skyboxes
 - We can move the player inside the labyrinth
 - There is texture on walls according to orientation (N,S,W,E)
 - There is texture on the floor
