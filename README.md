@@ -1,6 +1,6 @@
 # Wolf3d
 
-Wolf3d is a graphc project. The goal here is to create a simple game like Wolfenstein with the ray-casting method.
+Wolf3d is a graphic project. The goal here is to create a simple game like Wolfenstein with the ray-casting method.
 
 Short description:
 - Maps are really simple, there are blocks of walls, the floor and two skyboxes
